@@ -1,7 +1,7 @@
 # MSA-P2
 
 ## Projects
-### 1. Resume
+### 1. Resume Website
 http://msa-tai.azurewebsites.net/
 
 ### 2. Microsoft Student Accelerator Website
