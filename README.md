@@ -1,7 +1,11 @@
 # MSA-P2
 
-## Resume
+## Projects
+### 1. Resume
 http://msa-tai.azurewebsites.net/
 
-## Microsoft Student Accelerator Website
+### 2. Microsoft Student Accelerator Website
 http://aumsa.co/
+
+## MSLearn Profile
+https://docs.microsoft.com/en-us/users/ryotokuro/
